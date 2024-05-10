@@ -1,0 +1,19 @@
+
+#foooter{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    /* background-color: #fdf5f5; */
+    align-items: center;
+    margin-bottom: 0%;
+
+}
+
+#insideCircle-btn{
+    color: #069f76 !important;
+    font-size: large;
+}
+#circle-btn{
+    background-color: #18151f !important; 
+     border-color: #069f76 !important; 
+}
